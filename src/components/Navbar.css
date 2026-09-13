@@ -21,9 +21,20 @@
   align-items: center;
   gap: 10px;
   text-decoration: none;
-  font-weight: 700;
-  font-size: 1.1rem;
+}
+
+.nav-brand-text {
+  font-size: 1.15rem;
+  font-weight: 500;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.nav-brand-text strong {
+  font-size: 1.25rem;
+  font-weight: 800;
   color: var(--red);
+  letter-spacing: 1.5px;
 }
 
 .nav-logo {

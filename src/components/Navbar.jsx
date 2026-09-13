@@ -12,7 +12,9 @@ export default function Navbar() {
       <div className="nav-inner">
         <a href="#home" className="nav-brand">
           <img src={logo} alt="Maarpu Logo" className="nav-logo" />
-          <span>MAARPU Welfare Society</span>
+          <span className="nav-brand-text">
+            <strong>MAARPU</strong> Welfare Society
+          </span>
         </a>
         <button className="nav-toggle" onClick={() => setOpen(!open)} aria-label="Toggle menu">
           <span /><span /><span />
