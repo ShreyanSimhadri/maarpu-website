@@ -3,10 +3,10 @@ import './Donate.css'
 
 const bankDetails = [
   { label: 'Account Name', value: 'MAARPU Welfare Society' },
-  { label: 'Account Number', value: 'XXXX XXXX XXXX 1234' },
-  { label: 'IFSC Code', value: 'SBIN0001234' },
-  { label: 'Bank Name', value: 'State Bank of India' },
-  { label: 'Branch', value: 'Vijayawada Main Branch' },
+  { label: 'Account Number', value: '120031078554' },
+  { label: 'IFSC Code', value: 'CNRB0001620' },
+  { label: 'Bank Name', value: 'Canara Bank' },
+  { label: 'Branch', value: 'Madhunagar, Vijayawada' },
 ]
 
 export default function Donate() {
