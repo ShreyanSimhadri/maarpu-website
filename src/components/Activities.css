@@ -1,0 +1,96 @@
+.activities {
+  background: var(--off-white);
+}
+
+.filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  margin-bottom: 48px;
+}
+
+.filter-btn {
+  padding: 6px 16px;
+  border-radius: 20px;
+  border: 2px solid var(--red);
+  background: transparent;
+  color: var(--red);
+  font-size: 0.82rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.filter-btn:hover,
+.filter-btn.active {
+  background: var(--red);
+  color: var(--white);
+}
+
+.timeline {
+  position: relative;
+  padding-left: 32px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 8px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--red), var(--red-light));
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 24px;
+}
+
+.timeline-dot {
+  position: absolute;
+  left: -28px;
+  top: 16px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--red);
+  border: 2px solid var(--white);
+  box-shadow: 0 0 0 2px var(--red);
+}
+
+.timeline-card {
+  background: var(--white);
+  border-radius: 10px;
+  padding: 18px 20px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  border-left: 3px solid var(--red);
+}
+
+.timeline-month {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--red);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  display: block;
+  margin-bottom: 6px;
+}
+
+.timeline-card p {
+  color: var(--text);
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.timeline-amount {
+  display: inline-block;
+  margin-top: 10px;
+  background: #fef2f2;
+  color: var(--red);
+  font-weight: 700;
+  font-size: 0.85rem;
+  padding: 3px 12px;
+  border-radius: 12px;
+}
