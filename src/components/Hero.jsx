@@ -8,7 +8,7 @@ export default function Hero() {
       <img src={hero} alt="Maarpu with CM" className="hero-bg" />
       <div className="hero-content">
         <p className="hero-tag">Transforming Lives Since 2024</p>
-        <h1>Maarpu Welfare Society</h1>
+        <h1>MAARPU Welfare Society</h1>
         <p className="hero-sub">
           Empowering communities through education, women empowerment, healthcare, and social welfare across Andhra Pradesh.
         </p>

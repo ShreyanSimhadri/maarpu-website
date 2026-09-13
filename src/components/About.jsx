@@ -11,7 +11,7 @@ export default function About() {
         <div className="about-grid">
           <div className="about-text">
             <p>
-              <strong>Maarpu Welfare Society</strong> (meaning "Change" in Telugu) is a non-governmental organisation based in Vijayawada, Andhra Pradesh, dedicated to creating meaningful, lasting change in underserved communities.
+              <strong>MAARPU Welfare Society</strong> (meaning "Change" in Telugu) is a non-governmental organisation based in Vijayawada, Andhra Pradesh, dedicated to creating meaningful, lasting change in underserved communities.
             </p>
             <p>
               We work across multiple domains — education, women empowerment, healthcare, environmental awareness, and community welfare — reaching tribal villages, orphanages, old-age homes, and government schools across Andhra Pradesh.

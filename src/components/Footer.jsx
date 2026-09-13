@@ -7,10 +7,10 @@ export default function Footer() {
       <div className="container footer-inner">
         <div className="footer-brand">
           <img src={logo} alt="Maarpu Logo" />
-          <span>Maarpu Welfare Society</span>
+          <span>MAARPU Welfare Society</span>
         </div>
         <p className="footer-tagline">Transforming lives across Andhra Pradesh</p>
-        <p className="footer-copy">© {new Date().getFullYear()} Maarpu Welfare Society. All rights reserved.</p>
+        <p className="footer-copy">© {new Date().getFullYear()} MAARPU Welfare Society. All rights reserved.</p>
       </div>
     </footer>
   )
