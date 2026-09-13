@@ -13,7 +13,7 @@ const programs = [
   {
     img: plantation,
     title: 'Education & Holistic Learning',
-    desc: 'Supporting 68+ students with tuition fees, conducting talent fests across 53 schools, holistic learning programmes in tribal schools, and school wall art projects.',
+    desc: 'Supporting 300+ students with tuition fees, conducting holistic learning programmes in tribal schools, and eco-friendly school wall art projects across 20 schools.',
   },
   {
     img: polioRally,
@@ -23,7 +23,7 @@ const programs = [
   {
     img: community,
     title: 'Community Welfare',
-    desc: 'Monthly support to orphanages and old-age homes, adopting 52 Bangaru Kutumbalu families, and providing groceries and essential amenities to those in need.',
+    desc: 'Monthly support to orphanages and old-age homes, adopting 152 Bangaru Kutumbalu families, and providing groceries and essential amenities to those in need.',
   },
 ]
 
