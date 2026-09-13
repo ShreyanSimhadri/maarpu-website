@@ -2,7 +2,7 @@ import { useState } from 'react'
 import logo from '../assets/logo.jpg'
 import './Navbar.css'
 
-const links = ['About', 'Programs', 'Activities', 'Impact', 'Awards', 'Contact']
+const links = ['About', 'Programs', 'Activities', 'Impact', 'Awards', 'Donate', 'Contact']
 
 export default function Navbar() {
   const [open, setOpen] = useState(false)

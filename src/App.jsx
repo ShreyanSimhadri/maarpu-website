@@ -1,3 +1,4 @@
+import Donate from './components/Donate'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import About from './components/About'
@@ -18,6 +19,7 @@ export default function App() {
       <Programs />
       <Activities />
       <Awards />
+      <Donate />
       <Contact />
       <Footer />
     </>
