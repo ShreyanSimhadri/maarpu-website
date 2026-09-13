@@ -1,4 +1,4 @@
-import founder from '../assets/founder.jpg'
+import founder from '../assets/hero.jpg'
 import community from '../assets/community.jpg'
 import './About.css'
 

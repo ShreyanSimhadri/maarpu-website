@@ -18,10 +18,10 @@ export default function Contact() {
               </div>
             </div>
             <div className="contact-item">
-              <div className="contact-icon">📞</div>
+              <div className="contact-icon">💬</div>
               <div>
-                <h4>Phone</h4>
-                <p><a href="tel:+918985217744">+91 898 521 7744</a></p>
+                <h4>WhatsApp</h4>
+                <p><a href="https://wa.me/919541421744" target="_blank" rel="noreferrer">+91 95414 21744</a></p>
               </div>
             </div>
             <div className="contact-item">

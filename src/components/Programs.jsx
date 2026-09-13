@@ -8,7 +8,7 @@ const programs = [
   {
     img: bloodDonation,
     title: 'Healthcare Initiatives',
-    desc: 'Organising blood donation camps, medical camps at old-age homes, distributing protein supplements to pregnant mothers, and conducting polio awareness rallies.',
+    desc: 'Organising blood donation camps, medical camps at old-age homes, WASH (Water, Sanitation & Hygiene) Initiative, distributing protein supplements to pregnant mothers, and conducting polio awareness rallies.',
   },
   {
     img: plantation,
@@ -32,7 +32,7 @@ export default function Programs() {
     <section id="programs" className="programs">
       <div className="container">
         <h2 className="section-title">Our Programs</h2>
-        <p className="section-subtitle">Key areas where Maarpu creates lasting impact</p>
+        <p className="section-subtitle">Key areas where MAARPU creates lasting impact</p>
         <div className="programs-grid">
           {programs.map(p => (
             <div key={p.title} className="program-card">

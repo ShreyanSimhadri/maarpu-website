@@ -1,11 +1,11 @@
 import './Impact.css'
 
 const stats = [
-  { number: '53+', label: 'Schools Reached' },
-  { number: '110+', label: 'Children in Talent Fest' },
-  { number: '68+', label: 'Students Supported' },
-  { number: '52', label: 'Bangaru Kutumbalu Adopted' },
-  { number: '₹17L+', label: 'Spent on Welfare' },
+  { number: '6000+', label: 'Schools Reached' },
+  { number: '11000+', label: 'Children in Talent Fest' },
+  { number: '300+', label: 'Students Supported' },
+  { number: '152', label: 'Bangaru Kutumbalu Adopted' },
+  { number: 'AP & TS', label: 'States Covered' },
   { number: '12+', label: 'Districts Covered' },
 ]
 
