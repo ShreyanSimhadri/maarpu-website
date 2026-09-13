@@ -3,16 +3,16 @@ import './Activities.css'
 const highlights = [
   { icon: '🎗️', title: 'Blood Donation Camp', desc: 'Conducted in collaboration with Brahma Kumaris across Vijayawada.' },
   { icon: '🌳', title: 'Green Environment Initiative', desc: 'Plantation drives at schools in Krishna & NTR districts.' },
-  { icon: '🎨', title: 'School Wall Art', desc: 'Eco-friendly climate-action wall art across 20 schools.' },
-  { icon: '🏆', title: 'Student Talent Fest', desc: '53 schools, 110+ children in quiz, drawing, essay & chess.' },
+  { icon: '🎨', title: 'School Wall Art', desc: 'Eco-friendly climate-action wall art across 20 schools in NTR & Krishna districts.' },
+  { icon: '🚿', title: 'WASH Initiative', desc: 'Water, Sanitation & Hygiene awareness programmes in rural and tribal communities.' },
   { icon: '👩', title: 'Women Empowerment', desc: 'Programmes in Chintapalli, Paderu, Krishnalanka & tribal villages.' },
   { icon: '📚', title: 'Holistic Learning', desc: 'MoU with ITDA Paderu for tribal school learning programmes.' },
   { icon: '🤝', title: 'P4 Initiative', desc: 'Adopted 152 Bangaru Kutumbalu families in Gunadala, Vijayawada.' },
   { icon: '🏥', title: 'Medical Camps', desc: 'Health camps at old-age homes with free checkups & nutrition support.' },
   { icon: '🎓', title: 'Student Support', desc: 'Covered tuition & hostel fees for 300+ students across AP.' },
   { icon: '🍱', title: 'Community Meals', desc: 'Monthly groceries & meals to orphanages and old-age homes.' },
-  { icon: '🏛️', title: 'CM Presentation', desc: 'Presented MAARPU\'s initiatives to the Hon\'ble CM of Andhra Pradesh.' },
   { icon: '🌺', title: 'Ugadi Puraskaralu', desc: 'Received state award for outstanding community service & welfare.' },
+  { icon: '💉', title: 'Polio Awareness Rally', desc: 'Conducted polio awareness rallies at government hospitals & ZPH schools across Krishna district.' },
 ]
 
 export default function Activities() {
